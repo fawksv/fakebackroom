@@ -1,0 +1,96 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# MemoryCaptures
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Recordings
+*.relay
+
+# Uncomment if you want to ignore Asset Store tools
+# [Aa]ssets/AssetStoreTools*
+
+# IDE / Editor folders
+.vs/
+.vscode/
+.idea/
+*.user
+*.userprefs
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.mdb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# MonoDevelop / Visual Studio
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.mdb
+
+# Unity meta files should NOT be ignored
+# (do not ignore *.meta files)
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+*.app/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Codely CLI
+.codely-cli/
+.codely/
+
+# diyijieke sub-project (not part of this repo)
+diyijieke/
+
+# Temp files
+temp_diff.txt
+*.log
+
+# Unity crashlytics
+crashlytics-build.properties
+
+# Visual Studio cache
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+
+# NuGet
+packages/
+
+# Ignore copied duplicate files
+(2).*
+ignore.*
+*.vsconfig
+(2).codelyignore
+(2).vsconfig
